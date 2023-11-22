@@ -1,0 +1,1 @@
+first javascript project still very rough. ON G
